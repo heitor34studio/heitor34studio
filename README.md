@@ -1,7 +1,7 @@
 <div align="center">
   
   ![cat](https://github.com/images/mona-whisper.gif)
-  ![8bit](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQzaW52Y2JzbXU0NTF2Nnh2NDJ0cTJvYmQ3ODl2YnN0ZWkwNmJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.webp)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQzaW52Y2JzbXU0NTF2Nnh2NDJ0cTJvYmQ3ODl2YnN0ZWkwNmJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.webp" width="250">
   ![cat](https://github.com/images/mona-whisper.gif)
 </div>
 
