@@ -51,13 +51,6 @@
 </br>
 </br>
 </br>
-
-
-<img alt="girl-looking-sea"  width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4MjY3anlnZG9sZTlhZ2hxaTJ1aW9yb3BrM2EzMGx0eWNjdW11OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.webp">
-
-
-
-
 <a href="https://github.com/heitor34studio/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitor34studio&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="heitor :: overall Top Langs " />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=heitor34studio&show_icons=true&theme=radical"></a>
 
@@ -66,8 +59,9 @@
 </p>
 
 </br>
-<hr>
 <div align="center">
+  <hr>
+  <img align="center" alt="girl-looking-sea" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4MjY3anlnZG9sZTlhZ2hxaTJ1aW9yb3BrM2EzMGx0eWNjdW11OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.webp">
   
 ### Contato:
 <div align="center">
