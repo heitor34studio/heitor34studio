@@ -10,9 +10,9 @@
 <img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMwOG5nM3N3aWRzbmlmamQzenI2aWJoZW5kczY0cnN4ZzkxOG1vYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp">
 
 ### Sobre mim:
-  <h5>- 🎓 Estudante de ADS na Estácio.</h5>
+  <h5>- 🎓 Estudante de [ADS] na Estácio.</h5>
   <h5>- 🔭 Atualmente procurando meu primeiro emprego na área.</h5>
-  <h5>- 🌱 Estou aprendendo [Tecnologia/linguagem]</h5>
+  <h5>- 🌱 Estou aprendendo [Java / Inteligência Artificial]</h5>
 
 </br>
 <hr width="50%">
