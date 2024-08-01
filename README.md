@@ -11,7 +11,7 @@
 
 ### Sobre mim:
   <h5>- 🎓 Estudante de [ADS] na Estácio.</h5>
-  <h5>- 🔭 Atualmente procurando meu primeiro emprego na área.</h5>
+  <h5>- 🔭 Atualmente procurando meu primeiro estágio na área.</h5>
   <h5>- 🌱 Estou aprendendo [Java / Inteligência Artificial]</h5>
 
 </br>
