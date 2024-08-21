@@ -66,7 +66,6 @@
 ### Contato:
 <div align="center">
     <a href="https://www.linkedin.com/in/heitor-dutra34/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin" width="40" height="40"/></a>
-    <a href="https://www.instagram.com/heitor34studio/" target="_blank"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="github" width="40" height="40"/></a>
     <a href="mailto:heitordutra222@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000" alt="git" width="40" height="40"/></a>
     <a href="https://heitordutra.site/portfolio/" target="_blank"><img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" alt="portfolio" width="40" height="40"/>      </a>
 </div>
