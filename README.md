@@ -5,7 +5,7 @@
   ![cat](https://github.com/images/mona-whisper.gif)
 </div>
 
-<h1 align="center"> Olá, eu sou <a href="https://heitordutra.site/portfolio/" target"_blank">Heitor</a>! </h1>
+<h1 align="center"> Olá, eu sou Heitor! </h1>
 
 <img align="right" alt="Coding" width="450" src="https://i.giphy.com/lB0vWF9au9XRC.webp">
 
