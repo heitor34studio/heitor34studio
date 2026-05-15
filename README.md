@@ -1,23 +1,21 @@
 <div align="center">
   
   ![cat](https://github.com/images/mona-whisper.gif)
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQzaW52Y2JzbXU0NTF2Nnh2NDJ0cTJvYmQ3ODl2YnN0ZWkwNmJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.webp" width="250">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno3M2gxNm1tYXpyaHd2dWVsNHB6djhyMzJjaWptdDJoOTFydXB4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/30zBdDtNEJIYg/giphy.gif" width="250">
   ![cat](https://github.com/images/mona-whisper.gif)
 </div>
 
-<h1 align="center"> Olá, eu sou <a href="https://heitordutra.site/portfolio/" target"_blank">Heitor Dutra Bento</a>! </h1>
+<h1 align="center"> Olá, eu sou <a href="https://heitordutra.site/portfolio/" target"_blank">Heitor</a>! </h1>
 
-<img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMwOG5nM3N3aWRzbmlmamQzenI2aWJoZW5kczY0cnN4ZzkxOG1vYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp">
+<img align="right" alt="Coding" width="450" src="https://i.giphy.com/lB0vWF9au9XRC.webp">
 
 ### Sobre mim:
-  <h5>- 🖥️ Estudante de [ADS] na Estácio.</h5>
-  <h5>- 👻 Sou um freelancer autônomo, se tiver propostas entre em contato logo abaixo.</h5>
-  <h5>- 👾 Estou aprendendo [Algoritmos e Complexidade]</h5>
-
+  <h5>- 👻 Programador atento aos detalhes. 👁️‍🗨️</h5>
+<img width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxva2MzNHZpaWJvZmV6ODVwdXpocmlwMjV1eWZrbDlyNTc4NHlqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SKOwf1nD6j6XhfLMG/giphy.gif">
 </br>
 <hr width="50%">
 </br>
-<img align="left" alt="Coding"  width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF1eGFsNm1wdXhoMThqY2k1M2hwaDVxMGhud2E0MDEyd2pkNHI2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPZdap8PGhSvABr6xW/giphy.webp">
+<img align="left" alt="Coding"  width="300" src="https://i.giphy.com/AkJIXCaLemwrMQ5M1u.webp">
 
    <h3 align="right">Habilidades</h3>
   <h4  align="right"> - Tecnologias: </h4>
@@ -61,13 +59,11 @@
 </br>
 <div align="center">
   <hr>
-  <img align="center" alt="girl-looking-sea" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4MjY3anlnZG9sZTlhZ2hxaTJ1aW9yb3BrM2EzMGx0eWNjdW11OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.webp">
+  <img align="center" alt="girl-looking-sea" src="https://i.giphy.com/8TCVEln7tYe11K67rZ.webp">
   
 ### Contato:
 <div align="center">
-    <a href="https://www.linkedin.com/in/heitor-dutra34/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin" width="40" height="40"/></a>
     <a href="mailto:heitor34productions@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=X0mEIh0RyDdL&format=png&color=000000" alt="git" width="40" height="40"/></a>
-    <a href="https://heitordutra.site/portfolio/" target="_blank"><img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" alt="portfolio" width="40" height="40"/>      </a>
 </div>
 
 </div>
